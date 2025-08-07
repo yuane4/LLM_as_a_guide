@@ -1,0 +1,35 @@
+Relations identified in the administrative corpus :
+
+French version:
+
+1) Acquisition de parcelles,
+2) Subventions et financements,
+3) Relations entre institutions,
+4) Délégation de service public, 
+5) Lien géographique,
+6) Garantie d'emprunt,
+7) Marchés public et contrats, 
+8) Gestion de services public et municipaux,
+9) Faisant par d'une organisation,
+10) Travaux et aménagement,
+11) Vote et délibération,
+12) Mandature ou fonction au sein d'une organisation,
+13) Collaboration, échange ou mention,
+14) prise de décisions, actions menées
+
+English version:
+
+1) Land or infrastructure acquisition,
+2) Subsidies and financing,
+3) Relations between public institutions,
+4) Delegation of public services,
+5) Located in,
+6) Loan guarantee,
+7) Public procurement and contracts,
+8) Management of municipal and administrative services,
+9) Part of an organisation,
+10) Public works and infrastructure,
+11) Vote or political position on the community board,
+12) Position or mandate held within an organization,
+13) Collaboration, Discussion, or Mentionin an Administrative Context,
+14) Administrative Decision or Action
